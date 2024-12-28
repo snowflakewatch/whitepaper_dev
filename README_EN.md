@@ -1,6 +1,6 @@
 # LI Foundation Roadmap (Community Version)
 
-## Risk Warning Statement
+## [Risk Warning Statement](./Disclaimer_en.md)
 
 $LI Token ($LI), launched as a meme coin on December 19, 2024, marks the beginning of its ecosystem development. The Foundation will gradually improve technical infrastructure, build a decentralized governance framework around $LI, and promote press freedom and human rights protection through a DAO model. The following detailed roadmap is divided into four phases, covering plans from infrastructure construction to long-term ecosystem development.
 
