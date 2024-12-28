@@ -136,3 +136,9 @@
 # 写在结尾的话
 
 我们深知我们可能仍显稚嫩甚至经验不足，但不影响我们尝试的勇气，诚意邀请有热情有能力朋友们加入到共同建设中！
+
+## License
+
+© 2024 [LI DAO Community]. All Rights Reserved.
+
+This project is licensed under CC BY-NC-ND - see the [LICENSE.md](LICENSE.md) file for details.
