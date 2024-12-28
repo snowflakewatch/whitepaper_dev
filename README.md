@@ -141,4 +141,4 @@
 
 © 2024 [LI DAO Community]. All Rights Reserved.
 
-This project is licensed under CC BY-NC-ND - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under CC BY-NC-ND - see the [LICENSE.md](LICENSE) file for details.
